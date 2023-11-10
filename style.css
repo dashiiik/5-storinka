@@ -1,0 +1,39 @@
+body {
+    font-family: sans-serif;
+    background-color: rgb(151, 130, 104);
+}
+h1{
+    text-align: center;
+}
+header{
+    color: blanchedalmond;
+    border: 5px double blanchedalmond;
+    border-radius: 10px;
+}
+img{
+    border-radius: 10px;
+    border: 5px double blanchedalmond;
+}
+img:hover{
+    opacity: 1;
+    border: 6px solid blanchedalmond;
+    transition: 0.5s ease-out;
+    padding: 5px;
+}
+main{
+    color: blanchedalmond;
+    border: 5px double blanchedalmond;
+}
+main:hover{
+    background-color: rgb(110, 80, 69);
+    transition: 0.5s ease-out;
+    padding: 5px;
+    border: 7px dotted blanchedalmond;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: bisque;
+}
+.tyu{
+    color: blanchedalmond;
+    border: 6px double blanchedalmond;
+}
+
